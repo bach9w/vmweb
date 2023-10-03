@@ -1,5 +1,5 @@
 // views
-import { About, Contact } from './views';
+import { About, Hero } from './views';
 
 // components
 import { Menu } from './components';
