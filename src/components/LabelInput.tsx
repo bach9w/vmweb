@@ -12,7 +12,7 @@ const LabelInput: FC<LabelInputProps> = ({
   placeholderText,
   textarea,
 }) => {
-  return <div>LabelInput</div>;
+  return <div>LabelInpt</div>;
 };
 
 export default LabelInput;
